@@ -12,3 +12,9 @@
        url(fonts/Roboto/roboto-v30-latin-regular.ttf) format('truetype'), /* Safari, Android, iOS */
        url(fonts/Roboto/roboto-v30-latin-regular.svg#Roboto) format('svg'); /* Legacy iOS */
 }
+
+@font-face {
+    font-family: 'JetBrains Mono';
+    src: url(fonts/JetBrainsMono/JetBrainsMono-Medium.woff2) format('woff2'),
+         url(fonts/JetBrainsMono/JetBrainsMono-Medium.ttf) format('truetype'),
+  }
